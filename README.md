@@ -1,0 +1,2 @@
+# SIPETERNAK
+Sistem Akuntansi Peternakan
